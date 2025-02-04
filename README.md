@@ -1,2 +1,2 @@
 # Sigma---Web-Devleopmett
-web development 
+web development notes 
